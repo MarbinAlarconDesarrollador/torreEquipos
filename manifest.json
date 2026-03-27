@@ -1,0 +1,18 @@
+{
+  "name": "Torre por Equipos",
+  "short_name": "TowerDuel",
+  "description": "Construye la torre más alta en este duelo de precisión.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#1a1a1a",
+  "theme_color": "#ea5046",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1042/1042301.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
